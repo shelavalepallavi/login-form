@@ -6,8 +6,8 @@ A sleek and responsive login/signup form built with **React** and **CSS**, featu
 
 - 🔑 **Login & Signup forms** with validation.
 - 👁️ Toggle password visibility.
-- 🧠 Tooltips and hover interactions
-- ✅ Form input validation with feedback
+- 🧠 Tooltips and hover interactions.
+- ✅ Form input validation with feedback.
 - 🚀 Redirect to a responsive **Dashboard** after authentication
 - 🎨 Clean UI with interactive **icons**
 
