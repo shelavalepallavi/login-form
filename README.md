@@ -75,11 +75,11 @@ This app does not include backend logic. For production, connect to an auth serv
 Styling and interactivity rely on css.
 
 🛠️ To Do
- Add real authentication (e.g., Firebase)
+ Add real authentication (e.g., Firebase).
 
- Add form transitions/animations
+ Add form transitions/animations.
 
- Improve mobile responsiveness
+ Improve mobile responsiveness.
 
  Unit tests for form validation
 
