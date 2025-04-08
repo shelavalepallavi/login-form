@@ -1,11 +1,10 @@
 .container{
   width: 600px;
   margin:  auto;
-  margin-top: 200px;
   background: #fff;
-  padding-bottom: 30px;
   display: flex;
   flex-direction: column;
+  border-radius: 10px;
 }
 .header{
   display: flex;
